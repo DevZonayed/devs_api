@@ -4,7 +4,7 @@
   "description": "This project for Developers database",
   "main": "index.js",
   "scripts": {
-    "db":"json-server --watch ./database/db.json --port 5050"
+    "db":"json-server --watch db.json --port 5050"
   },
   "author": "Zonayed Ahamad",
   "license": "ISC",
