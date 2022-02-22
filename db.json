@@ -2,6 +2,7 @@
 {
     "devs" : [
         {
+"id" : 1,
             "name":"Zonayed Ahamad",
             "age":23,
             "skill":"Mern Stack",
@@ -9,6 +10,7 @@
             "location":"Naogaon"
         },
         {
+            "id" : 2,
             "name":"Sabbir hossin",
             "age":25,
             "skill":"Laravel",
@@ -16,6 +18,7 @@
             "location":"Rajshahi"
         },
         {
+            "id" : 3,
             "name":"Rayhan",
             "age":30,
             "skill":"Wordpress",
@@ -23,6 +26,7 @@
             "location":"Sylet"
         },
         {
+            "id" : 4,
             "name":"Rakibul",
             "age":20,
             "skill":"Django",
@@ -30,6 +34,7 @@
             "location":"Dhaka"
         },
         {
+            "id" : 5,
             "name":"Lemon",
             "age":28,
             "skill":"Laravel",
@@ -37,6 +42,7 @@
             "location":"Chapai"
         },
         {
+            "id" : 6,
             "name":"Khalil",
             "age":35,
             "skill":"Wordpress",
@@ -44,11 +50,26 @@
             "location":"Dinajpur"
         },
         {
+            "id" : 7,
             "name":"Mostakim",
             "age":25,
             "skill":"Mern Stack",
             "image" : "https://i.pinimg.com/originals/22/b6/b9/22b6b9f52cc414e92d9e4e244de5194d.jpg",
             "location":"Naogaon"
         }
-    ]
+    ],
+      "skills": [
+    {
+      "id": 1,
+      "skill": "Mern-stack"
+    },
+    {
+      "id": 2,
+      "skill": "Laravel"
+    },
+    {
+      "id": 3,
+      "skill": "Django"
+    }
+  ]
 }
